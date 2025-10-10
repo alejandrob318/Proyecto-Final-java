@@ -1,0 +1,23 @@
+Repasar Java
+
+Clases Wrapper
+arreglos
+Principio de resposabilidad Unica(SOLID???)
+principios basicos de POO(Herencia-Polimorfismo-Encapsulamiento-Abastraccion)
+Interfaces
+Clases Abstractas
+Funciones LAMBDA
+sobrecarga vs sobreescribir
+Composicion,Agregacion
+isblack
+
+que tiene la clase Object 
+
+
+
+Proyecto a realizar 
+-----------------
+ecommer tienda de hardware
+
+proyecto personal luego
+--sistema de gestion de estacionamiento
