@@ -1,22 +1,43 @@
+VER CLASE : Affterclass 4 min 8:00
+
 Repasar Java
 
 Clases Wrapper
+isblack
 arreglos
+arraylist
+static
 Principio de resposabilidad Unica(SOLID???)
+Composicion,Agregacion
+  
 principios basicos de POO(Herencia-Polimorfismo-Encapsulamiento-Abastraccion)
 Interfaces
 Clases Abstractas
 Funciones LAMBDA
 sobrecarga vs sobreescribir
-Composicion,Agregacion
-isblack
-
 que tiene la clase Object 
 
 
-
+diferentes usos de los metodos del arraylist
+add
+set
+get
+remove
+contains 
+clear
+sublist
+addAll
+asList
+removeAll
 Proyecto a realizar 
 -----------------
+
+sugerencia del profe: 
+crud de articulos en memoria 
+
+luego si queres algo adiccional 
+crud de pedidos, alta y baja de usuarios
+
 ecommer tienda de hardware
 
 proyecto personal luego
