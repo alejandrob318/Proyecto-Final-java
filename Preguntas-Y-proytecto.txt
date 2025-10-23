@@ -2,20 +2,24 @@ VER CLASE : Affterclass 4 min 8:00
 
 Repasar Java
 
-Clases Wrapper
-isblack
-arreglos
+Clases Wrapper [x]
+isblack [x]
+
 arraylist
 static
 Principio de resposabilidad Unica(SOLID???)
 Composicion,Agregacion
   
 principios basicos de POO(Herencia-Polimorfismo-Encapsulamiento-Abastraccion)
+
+
+
 Interfaces
 Clases Abstractas
 Funciones LAMBDA
 sobrecarga vs sobreescribir
 que tiene la clase Object 
+Patrones de diseño(Ver esta Pagina : https://refactoring.guru/es)
 
 
 diferentes usos de los metodos del arraylist
@@ -33,7 +37,7 @@ Proyecto a realizar
 -----------------
 
 sugerencia del profe: 
-crud de articulos en memoria 
+crud de articulos en memoria | Consolaf 
 
 luego si queres algo adiccional 
 crud de pedidos, alta y baja de usuarios
@@ -42,3 +46,30 @@ ecommer tienda de hardware
 
 proyecto personal luego
 --sistema de gestion de estacionamiento
+
+explicacion(luego pasarlo al work del curso)
+
+Clases Wrapper: nos permite tratar a los tipos de datos primitos en objetos. los metodos mas usados son
+parse(xx)(pasar de objeto a un primitivo), valueOf(pasar de un primitivo a un objeto),compareTo(sirve para comparar numero, caracteres en base de un valor en unicode, booleanos)
+
+isblack: es casi lo mismo que el isEmpty pero este no toma en cuenta los espacios en blanco como caracteres
+
+Pilares de POO
+-------------
+
+Herencia: se basa en que una clase relacion con otra clase se pasa a la clase hija
+ todos su atributo y metodos con criterio que puede utilizarlo a gusto
+
+Polimorfismo: se basa en realizar misma acciones pero de diferentes maneras
+
+Encapsulamiento: se base en proteger los datos y objetos a traves de modificadores 
+Abastraccion: oculta la complejidad de un objeto y mostrandolo de una manera mucha mas simpre
+
+Clases:  es una plantilla encarga de definir la estructura basica de un objeto o varios. Establece sus carateristicas y comportamiento generales  
+
+Objetos: Instancia de una clase que contiene caracteristicas(Atributos) y accciones (Metodos)
+
+Metodos: son los comportamiento que puede realizar mi objeto, este puede recibir parametros y devolver resultados. Tambien se puede Encapsular
+
+nota: siempre a una clase con atributos se crea siempre por defecto un constructor
+getter y setter:
